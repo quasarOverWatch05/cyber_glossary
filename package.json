@@ -10,6 +10,7 @@
   "dependencies": {
     "@radix-ui/react-slot": "^1.2.0",
     "classnames": "^2.5.1",
+    "framer-motion": "^12.7.3",
     "lucide-react": "^0.488.0",
     "postcss": "^8.5.3",
     "quasar": "^2.18.1",
@@ -23,8 +24,8 @@
     "autoprefixer": "^10.4.21",
     "vite": "^6.3.0"
   },
-"engines": {
-  "node": "18.x || 20.x",
-  "npm": "9.x || 11.x"
-}
+  "engines": {
+    "node": "18.x || 20.x",
+    "npm": "9.x || 11.x"
+  }
 }
